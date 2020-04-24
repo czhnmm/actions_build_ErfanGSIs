@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://download.h2os.com/OnePlus5/OPEN/OnePlus5Hydrogen_23_OTA_057_all_2004201834_3d1d854984fb4416.zip
-  ROM_NAME: OxygenOS
+  ROM_URL: http://bigota.d.miui.com/9.8.22/miui_CEPHEUS_9.8.22_aa27670572_10.0.zip
+  ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
 jobs:
